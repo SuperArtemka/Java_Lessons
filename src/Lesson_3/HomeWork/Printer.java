@@ -1,7 +1,6 @@
-package Lessons_3.HomeWork;
+package Lesson_3.HomeWork;
 
 import java.util.Arrays;
-import java.util.SortedSet;
 
 class MergeSort {
     public static int[] mergeSort(int[] a) {
